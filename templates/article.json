@@ -21,7 +21,10 @@
         }
       },
       "block_order": ["title", "author_name", "publised_date", "featured_image", "article_content"]
+    },
+    "comments": {
+      "type": "main-comment"
     }
   },
-  "order": ["template"]
+  "order": ["template", "comments"]
 }
